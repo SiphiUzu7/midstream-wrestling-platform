@@ -4,8 +4,6 @@ title: Baseline – Midstream Wrestling site
 sidebar_position: 2
 ---
 
-Date:: 2025-12-11
-
 ## Lighthouse (live site)
 
 Performance:: 94
