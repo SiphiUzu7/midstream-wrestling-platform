@@ -39,9 +39,9 @@ module.exports = {
       fontSize: {
         sectionBody: "20px",
         cardBody: "14px",
-        h1: "30px", //come to this later on
-        h2: "44px",
-        h4: "18px",
+        h1: "32px", //come to this later on
+        h2: "48px",
+        h4: "16px",
       },
  
     },

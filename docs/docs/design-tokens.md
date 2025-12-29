@@ -32,13 +32,13 @@ Design tokens are named style decisions (colour, typography, spacing, shape) tha
 - focus.ring: #C93138 
 
 ### Shape
-- radius.brand: 40 pixels
+- radius.brand: 60 pixels
 
 ### Typography
 - Primary font family: system user interface fonts (temporary)
-- body: 18 pixels
-- heading 1: 44 pixels
-- heading 2: 30 pixels
+- body: 16 pixels
+- heading 1: 48 pixels
+- heading 2: 32 pixels
 
 ### Spacing discipline (rules)
 - Use the Tailwind spacing scale (2, 3, 4, 6, 8, 12…).

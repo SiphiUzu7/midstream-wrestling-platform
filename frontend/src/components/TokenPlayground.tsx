@@ -23,9 +23,9 @@ export function TokenPlayground() {
         </div>
 
         <div className="grid gap-2">
-          <div className="text-[44px] font-bold text-text-primaryText">Heading 1</div>
-          <div className="text-[30px] font-bold text-text-primaryText">Heading 2</div>
-          <div className="text-[18px] text-text-primaryText">
+          <div className="text-[48px] font-bold text-text-primaryText">Heading 1</div>
+          <div className="text-[32px] font-bold text-text-primaryText">Heading 2</div>
+          <div className="text-[16px] text-text-primaryText">
             Body text size is controlled and consistent.
           </div>
         </div>
